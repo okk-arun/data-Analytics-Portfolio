@@ -1,3 +1,3 @@
 # data-Analytics-Portfolio
-Power Bi Dashboards And Data Analytics Projects Using Real-world Datasets.
-hai my name is devraj dangi 
+Power Bi Dashboards and Data Analytics Projects Using Real-world Datasets.
+Hii my name is Arun Yadav 
